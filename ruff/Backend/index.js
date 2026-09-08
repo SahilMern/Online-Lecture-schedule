@@ -9,8 +9,6 @@ import cookieParser from "cookie-parser"
 Local Imports
 */
 
-
-
 import connectDB from "./src/config/db.js";
 import authRoutes from "./src/routes/auth.routes.js";
 
