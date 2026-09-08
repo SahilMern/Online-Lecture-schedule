@@ -10,6 +10,7 @@ router.post(
   "/register",
   validate(registerSchema),
   register
+  
 );
 
 router.post(
